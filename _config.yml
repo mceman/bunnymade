@@ -2,7 +2,7 @@
 title: PHOTORAMA
 email: ""
 description: "Photo Journal"
-url: "https://mceman.github.io/bunnymade"
+url: "https://mceman.github.io"
 baseurl: "/bunnymade"
 facebook_username: ""
 twitter_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://mceman.github.io/bunnymade/gallery/"  
+  - JOURNAL: "https://mceman.github.io/bunnymade/journal/"
+  - ABOUT: "https://mceman.github.io/bunnymade/about/"
 
 # All translation keys
 translations:
